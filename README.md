@@ -109,14 +109,14 @@ code .
 
 ### Task 1
 <p align="center">
-  <img src="screenshots/home.png" alt="Task 1 - Screenshot 1" width="45%">
-  <img src="screenshots/about.png" alt="Task 1 - Screenshot 2" width="45%">
+  <img src="screenshorts/home.png" alt="Task 1 - Screenshot 1" width="45%">
+  <img src="screenshorts/about.png" alt="Task 1 - Screenshot 2" width="45%">
 </p>
 
 <p align="center">
-  <img src="screenshots/coffe.png" alt="Task 1 - Screenshot 3" width="45%">
-  <img src="screenshots/dessert.png" alt="Task 1 - Screenshot 4" width="45%">
-  <img src="screenshots/staff.png" alt="Task 1 - Screenshot 5" width="45%">
+  <img src="screenshorts/coffee.png" alt="Task 1 - Screenshot 3" width="45%">
+  <img src="screenshorts/desserts.png" alt="Task 1 - Screenshot 4" width="45%">
+  <img src="screenshorts/staff.png" alt="Task 1 - Screenshot 5" width="45%">
 </p>
 
 ---
