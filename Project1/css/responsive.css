@@ -1,0 +1,298 @@
+/* ==========================================
+   TABLET (768px and above)
+========================================== */
+
+@media (min-width:768px){
+
+    /* Navigation */
+
+    .nav-links{
+
+        display:flex;
+        align-items:center;
+        gap:2rem;
+
+    }
+
+    .nav-links a{
+
+        position:relative;
+        font-weight:500;
+        transition:.3s;
+
+    }
+
+    .nav-links a:hover{
+
+        color:var(--primary);
+
+    }
+
+    .nav-links a::after{
+
+        content:"";
+
+        position:absolute;
+
+        left:0;
+        bottom:-6px;
+
+        width:0;
+
+        height:2px;
+
+        background:var(--primary);
+
+        transition:.3s;
+
+    }
+
+    .nav-links a:hover::after{
+
+        width:100%;
+
+    }
+
+    .menu-btn{
+
+        display:none;
+
+    }
+
+    /* Hero */
+
+    .hero .container{
+
+        grid-template-columns:repeat(2,1fr);
+
+        align-items:center;
+
+    }
+
+    /* Features */
+
+    .feature-grid{
+
+        grid-template-columns:repeat(3,1fr);
+
+    }
+
+    /* Coffee */
+
+    .coffee-grid{
+
+        grid-template-columns:repeat(2,1fr);
+
+    }
+
+    /* Desserts */
+
+    .dessert-grid{
+
+        grid-template-columns:repeat(2,1fr);
+
+    }
+
+    /* About */
+
+    .about .container{
+
+        grid-template-columns:repeat(2,1fr);
+
+    }
+
+    /* Team */
+
+    .team-grid{
+
+        grid-template-columns:repeat(3,1fr);
+
+    }
+
+    /* Testimonials */
+
+    .testimonial-grid{
+
+        grid-template-columns:repeat(2,1fr);
+
+    }
+
+    /* Contact */
+
+    .contact .container{
+
+        grid-template-columns:1fr 1fr;
+
+        align-items:start;
+
+    }
+
+    /* Newsletter */
+
+    .newsletter-form{
+
+        flex-direction:row;
+
+    }
+
+    .newsletter-form input{
+
+        flex:1;
+
+    }
+
+    .newsletter-form button{
+
+        width:auto;
+
+    }
+
+    /* Footer */
+
+    .footer-grid{
+
+        grid-template-columns:repeat(2,1fr);
+
+    }
+
+}
+
+/* ==========================================
+   DESKTOP (1024px and above)
+========================================== */
+
+@media (min-width:1024px){
+
+    section{
+
+        padding:110px 0;
+
+    }
+
+    .hero h1{
+
+        font-size:4.5rem;
+
+    }
+
+    .hero p{
+
+        font-size:1.15rem;
+
+    }
+
+    .coffee-grid{
+
+        grid-template-columns:repeat(3,1fr);
+
+    }
+
+    .dessert-grid{
+
+        grid-template-columns:repeat(3,1fr);
+
+    }
+
+    .testimonial-grid{
+
+        grid-template-columns:repeat(3,1fr);
+
+    }
+
+    .footer-grid{
+
+        grid-template-columns:2fr 1fr 1fr 1fr;
+
+    }
+
+}
+
+/* ==========================================
+   LARGE DESKTOP (1400px and above)
+========================================== */
+
+@media (min-width:1400px){
+
+    .container{
+
+        width:min(88%,1320px);
+
+    }
+
+    .hero h1{
+
+        font-size:5rem;
+
+    }
+
+    .section-title h2{
+
+        font-size:3rem;
+
+    }
+
+}
+
+/* ==========================================
+   MOBILE (767px and below)
+========================================== */
+
+@media (max-width:767px){
+
+    .hero{
+
+        text-align:center;
+
+    }
+
+    .hero-buttons{
+
+        justify-content:center;
+
+    }
+
+    .hero-image{
+
+        margin-top:2rem;
+
+    }
+
+    .section-title h2{
+
+        font-size:2rem;
+
+    }
+
+    .about{
+
+        text-align:center;
+
+    }
+
+    .about-list{
+
+        text-align:left;
+
+        display:inline-block;
+
+    }
+
+    .contact{
+
+        text-align:center;
+
+    }
+
+    .contact-form button{
+
+        width:100%;
+
+    }
+
+    .footer{
+
+        text-align:center;
+
+    }
+
+}
