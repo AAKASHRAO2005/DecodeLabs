@@ -24,22 +24,9 @@ A modern, responsive coffee shop website built using **HTML5, CSS3, and Vanilla 
 ---
 
 ## 🚀 Live Demo
-
-> Add your deployment link here
-
 ```
-https://your-live-demo-link.com
+(https://brew-haven-one-kappa.vercel.app/)
 ```
-
----
-
-## 📸 Preview
-
-> Add screenshots of your project here.
-
-| Home Page | Coffee Menu |
-|-----------|-------------|
-| ![Home](assets/images/home-preview.jpg) | ![Coffee](assets/images/coffee-preview.jpg) |
 
 ---
 
