@@ -121,6 +121,22 @@ code .
 
 ---
 
+### Task 2
+<p align="center">
+  <img src="screenshorts/Screenshot 2026-08-02 224129.png" alt="Task 2- Screenshot 1" width="45%">
+  <img src="screenshorts/Screenshot 2026-08-02 224204.png" alt="Task 2 - Screenshot 2" width="45%">
+  <img src="screenshorts/Screenshot 2026-08-02 224239.png" alt="Task 2 - Screenshot 3" width="45%>
+</p>
+
+<p align="center">
+  <img src="screenshorts/Screenshot 2026-08-02 224318.png" alt="Task 2 - Screenshot 4" width="45%">
+  <img src="screenshorts/Screenshot 2026-08-02 224359.png" alt="Task 2 - Screenshot 5" width="45%">
+  <img src="screenshorts/Screenshot 2026-08-02 224424.png" alt="Task 2 - Screenshot 6" width="45%">
+  <img src="screenshorts/Screenshot 2026-08-02 224446.png" alt="Task 2 - Screenshot 7" width="45%">
+</p>
+
+---
+
 ## 🤝 Contributing
 
 Contributions, suggestions, and improvements are always welcome.
